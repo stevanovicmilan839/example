@@ -131,7 +131,7 @@
     "react-native-flipper": "0.126.0",
     "react-native-highlight-updates": "1.2.0",
     "react-test-renderer": "17.0.2",
-    "redux-flipper": "2.0.1",
+    "redux-flipper": "2.0.2",
     "semantic-release": "18.0.1",
     "travis-deploy-once": "5.0.11",
     "ts-essentials": "9.0.0",
